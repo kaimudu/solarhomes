@@ -294,4 +294,5 @@ button.btn-secondary{
     color: #28a745;
     position: absolute;
     font-size: 45px;
+    margin-left: -2px;
 }
