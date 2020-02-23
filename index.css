@@ -296,3 +296,18 @@ button.btn-secondary{
     font-size: 45px;
     margin-left: -2px;
 }
+
+
+.power{
+    width: 100%;
+}
+
+.pp{
+    text-align: center;
+    margin-bottom: 0;
+    padding: 10px 0;
+
+    font-size: 17px;
+
+
+}
